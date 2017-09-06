@@ -1,0 +1,2 @@
+# dir-myPython-
+Python learning
